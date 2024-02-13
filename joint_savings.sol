@@ -15,6 +15,7 @@ You will do the following:
 
 */
 
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.5.0;
 
 // Define a new contract named `JointSavings`
