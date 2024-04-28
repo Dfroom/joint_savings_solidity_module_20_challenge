@@ -10,7 +10,7 @@ Please see execution screenshots in sub folder.
 I was able to deploy and transact. I could see my transactions in Ganache, but they were not appearing in the Remix console. I have yet to determine the cause of this discrepency. 
 
 ## Results
-While I ran into problems initially, I was able to create the joint account and transact between the two individual accounts and the joint account. The raw code can be viewed in the joint_savings.sol file on the main branch. Below are screenshots showing the contract deploying and transacting as intended on Ganache.
+While I ran into problems initially, I was able to create the joint account and transact between the two individual accounts and the joint account. The raw code can be viewed in the joint_savings.sol file on the main branch. Screenshots showing the contract deploying and transacting as intended on Ganache can be found in the "Execution Screenshots" folder.
 
 ## Future
 I need to spend some time to figure out why the transaction were appearing in Ganache but not in the Remix console. Otherwise the asssingment was a success.
