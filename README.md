@@ -1,5 +1,8 @@
 # Joint Savings Solidity Assignment
 
+## Introduction
+The objective of the assignment was to create a Ethereum compatible joint savings account using a Solidity smart contract. Some basic starter code and guidelines were provided as part of the assignment.
+
 ## Code Disclaimer
 Used the starter code as my starting point and added code from there.
 While all code is my own, I did research issues I was having online. No code was directly copied, online resources served as inspiration only.
